@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/liepinsm/practice#readme",
   "dependencies": {
+    "@types/node": "^18.11.18",
     "axios": "^1.2.2"
   },
   "devDependencies": {
